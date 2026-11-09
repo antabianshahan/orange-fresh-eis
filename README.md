@@ -2,7 +2,7 @@
 
 Frozen-then-thawed oranges look exactly like fresh ones, but ice crystals rupture the cell membranes, and that changes the fruit's **electrical impedance**. This project measured that effect with **electrical impedance spectroscopy (EIS)**, built a simple and reliable classifier from it, and moved the measurement onto a **~€30 portable prototype** (AD5933 + Arduino Nano).
 
-**[Interactive presentation with a Cole–Cole/Nyquist simulator](https://antabianshahan.github.io/orange-fresh-eis/)** · **[Full report (PDF, 54 pages)](docs/frozen_orange_detection_EIS_paper.pdf)**
+**[Interactive project presentation with a Cole–Cole/Nyquist simulator](https://antabianshahan.github.io/orange-fresh-eis/)** (proposal stage) · **[Full report (PDF, 54 pages)](docs/frozen_orange_detection_EIS_paper.pdf)**
 
 ## Results
 
